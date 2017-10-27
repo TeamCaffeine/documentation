@@ -1,0 +1,15 @@
+Use cases:
+1)	Sign up
+2)	Post an item
+3)	Request an item
+4)	Scroll through feed of available items?
+5)	Map view of nearest people with your item (Alternative, still use the map, have more of a list, have distance or other info, no pinpoint)
+6)	Calendar view for renting/returning items
+7)	View of currently lent/borrowed items
+8)	Chat View to talk to person you are lending to
+9)	Change the user profile information 
+10)	Check profile of renter
+
+Formal User Stories:
+
+	//TODO
